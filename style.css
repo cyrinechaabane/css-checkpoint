@@ -1,0 +1,40 @@
+
+h1 ~ p {
+    color: rgb(77, 129, 121);
+    font-family: 'Roboto';
+    font-size: larger;
+}
+
+h1 {
+	display: inline;
+	position: relative;
+	font: 50px Helvetica, Sans-Serif;
+	letter-spacing: -5px;
+    color: rgba(90, 0, 35, 0.795); 
+    border: 5px ridge rgba(0, 0, 0, 0.842);
+    padding-top: 05px;
+    padding-bottom: 05px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h2{
+    color: white;
+    text-shadow: 0 0 5px rgb(56, 1, 53), 0 0 10px rgb(78, 1, 74), 0 0 15px rgb(112, 2, 107), 0 0 20px rgb(148, 3, 141), 0 0 35px rgb(167, 0, 158), 0 0 40px rgb(201, 0, 191), 0 0 50px rgb(233, 3, 221), 0 0 75px rgb(255, 16, 243);
+}
+a:link{
+    color: purple;
+}
+a:visited{
+    color:rgb(173, 148, 3)
+}
+nav{
+    display: inline;
+}
+nav a{
+   margin-right: 18%;
+}
+.small{
+font-family: "Roboto";
+font-size: larger;
+}
