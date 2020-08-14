@@ -28,6 +28,9 @@ a:link{
 a:visited{
     color:rgb(173, 148, 3)
 }
+a:hover{
+    text-shadow: 0 0 5px rgb(56, 56, 56), 0 0 10px rgb(201, 201, 201), 0 0 15px rgb(240, 240, 240), 0 0 20px rgb(255, 255, 255), 0 0 35px rgb(255, 255, 255), 0 0 40px rgb(255, 255, 255), 0 0 50px rgb(255, 255, 255), 0 0 75px rgb(255, 255, 255);
+}
 nav{
     display: inline;
 }
@@ -37,4 +40,7 @@ nav a{
 .small{
 font-family: "Roboto";
 font-size: larger;
+}
+button:hover{
+    text-shadow: 0 0 5px rgb(129, 106, 1), 0 0 10px rgb(126, 103, 0), 0 0 15px rgb(194, 159, 2), 0 0 20px rgb(235, 173, 3), 0 0 35px rgb(255, 255, 255), 0 0 40px rgb(255, 255, 255), 0 0 50px rgb(255, 255, 255), 0 0 75px rgb(255, 255, 255);  
 }
